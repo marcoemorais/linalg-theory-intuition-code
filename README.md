@@ -6,4 +6,5 @@
 
 [03-Vector-Multiplications](03-Vector-Multiplications.html)
 
+[04-Vector-Spaces](04-Vector-Spaces.html)
 
