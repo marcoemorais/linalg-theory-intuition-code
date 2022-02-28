@@ -12,3 +12,5 @@
 
 [06-Matrix-Multiplication](06-Matrix-Multiplication.html)
 
+[07-Matrix-Rank](07-Matrix-Rank.html)
+
