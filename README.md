@@ -16,3 +16,5 @@
 
 [08-Matrix-Spaces](08-Matrix-Spaces.html)
 
+[09-Complex-Numbers](09-Complex-Numbers.html)
+
