@@ -20,3 +20,5 @@
 
 [10-Systems-of-Equations](10-Systems-of-Equations.html)
 
+[11-Determinant](11-Determinant.html)
+
