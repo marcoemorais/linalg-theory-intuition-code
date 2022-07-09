@@ -22,3 +22,4 @@
 
 [11-Determinant](11-Determinant.html)
 
+[12-Matrix-Inverse](12-Matrix-Inverse.html)
