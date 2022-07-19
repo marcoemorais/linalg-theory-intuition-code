@@ -25,3 +25,5 @@
 [12-Matrix-Inverse](12-Matrix-Inverse.html)
 
 [13-Projections](13-Projections.html)
+
+[14-Least-Squares](14-Least-Squares.html)
