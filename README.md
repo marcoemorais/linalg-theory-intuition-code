@@ -29,3 +29,5 @@
 [14-Least-Squares](14-Least-Squares.html)
 
 [15-Eigendecompositions](15-Eigendecompositions.html)
+
+[16-SVD](16-SVD.html)
