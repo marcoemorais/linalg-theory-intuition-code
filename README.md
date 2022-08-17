@@ -31,3 +31,5 @@
 [15-Eigendecompositions](15-Eigendecompositions.html)
 
 [16-SVD](16-SVD.html)
+
+[17-Quadratic-Form](17-Quadratic-Form.html)
