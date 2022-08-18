@@ -33,3 +33,5 @@
 [16-SVD](16-SVD.html)
 
 [17-Quadratic-Form](17-Quadratic-Form.html)
+
+[18-Covariance-Matrices](18-Covariance-Matrices.html)
