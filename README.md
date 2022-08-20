@@ -1,6 +1,6 @@
 # linear algebra: theory, intuition, code
 
-This repo contains jupyter notebooks with notes, code snippets, and the end of chapter exercises from the book _Linear Algebra: Theory, Intuition, Code_ by Mike X Cohen (Cohen, 2021). My intent with this repo was not to reproduce all of the details from the book. Instead I created these notebooks as I worked through the book in order to engage more deeply with the material using my own code snippets. Even though I have taken semester-long courses in linear algebra and a graduate course in numerical analysis, I was able to get a lot of benefit from the material in the book.
+This repo contains jupyter notebooks with notes, code, and exercises from the book _Linear Algebra: Theory, Intuition, Code_ by Mike X Cohen (Cohen, 2021). My intent with this repo was not to reproduce all of the details from the book. Instead I created these notebooks as I worked through the book in order to engage more deeply with the material using my own code. Even though I have taken semester-long courses in linear algebra and a graduate course in numerical analysis, I gained a lot of intuition from this book and highly recommend it.
 
 ```
 @book{cohen2021linear,
